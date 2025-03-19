@@ -180,13 +180,10 @@ You will need the following in order to use this tool:
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [ ] Add standalone Zoom Room creation
+- [ ] Add ability to create Pulse Rooms and Zoom Rooms with one CSV
+- [ ] Add standalone Teams Room creation (pending MSFT limitstions)
+- [ ] Add ability to create Pulse Rooms and Teams Rooms with one CSV
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
