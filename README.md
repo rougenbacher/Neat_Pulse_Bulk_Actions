@@ -139,7 +139,7 @@ You will need the following in order to use this tool:
   <li><strong>Get Org ID and API Key</strong>
     <ul>
       <li>In your Pulse tenat, navigate to the *Settings* tab on the left. From there copy the *Organization ID*.</li>
-      <li>While still in *Settings*, click *Create API Key*. Gove a descriptive name and endure you select both *Read* and *Write* for the scope.</li>
+      <li>While still in *Settings*, click *Create API Key*. Give a descriptive name and ensure you select both *Read* and *Write* for the scope.</li>
     </ul>
   </li>
   <li><strong>Set Organization ID and API Key<\strong>
@@ -149,7 +149,7 @@ You will need the following in order to use this tool:
       <li>Enter your Organization ID and press *Set Org ID*</li>
     <\ul>
   </li>
-  <li><strong>Get Location IDs<strong>
+  <li><strong>Get Location IDs<\strong>
     <ul>
       <li>Press the *Get Locations* button to get location IDs. Make sure to note these as they'll be needed in the next step.</li>
     </ul>
