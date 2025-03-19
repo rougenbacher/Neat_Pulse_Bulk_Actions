@@ -131,14 +131,46 @@ You will need the following in order to use this tool:
 <!-- USAGE EXAMPLES -->
 ## Usage
 <ol>
-  <li><strong>Get Org ID and API Key
+  <li><strong>Set Up Locations</strong>
+    <ul>
+      <li>Create necessary Regions/Locations in Neat Pulse. Rooms without a location will be assigned to "Unassigned" and must be updated manually.</li>
+    </ul>
+  </li>
+  <li><strong>Get Org ID and API Key</strong>
     <ul>
       <li>In your Pulse tenat, navigate to the *Settings* tab on the left. From there copy the *Organization ID*.</li>
       <li>While still in *Settings*, click *Create API Key*. Gove a descriptive name and endure you select both *Read* and *Write* for the scope.</li>
     </ul>
   </li>
-  
-        
+  <li><strong>Set Organization ID and API Key<\strong>
+    <ul>
+      <li>Navigate to the <a href="https://neatpulseroomcreate.replit.app/">Bulk Room Creation Tool</a></li>
+      <li>Enter your API Key and press *Set API Key*</li>
+      <li>Enter your Organization ID and press *Set Org ID*</li>
+    <\ul>
+  </li>
+  <li><strong>Get Location IDs<strong>
+    <ul>
+      <li>Press the *Get Locations* button to get location IDs. Make sure to note these as they'll be needed in the next step.</li>
+    </ul>
+  </li>
+  <li><strong>Download and Fill Out CSV<strong>
+    <ul>
+      <li>Click *Downlad CSV Template* to download a pre-populated CSV.</li>
+      <li>Fill out CSV with Room Names and Location ID gathered in the previous step. Leave the *enrollment_code* column empty.</li>
+    </ul>
+  </li>
+  <li><strong>Create Rooms<strong>
+    <ul>
+      <li>Click *Choose file* to select you populated CSV. Note: Rooms without a location will be assigned to "Unassigned" and must be updated manually.</li>
+      <li>Click *Create Rooms*. This will create new rooms in thr appropriate locations. Once completed you will see the status of each room along with its enrollment code.  You can write these down or just click *Download CSV* to get an updated CSV populated with enrollment codes.</li>
+    </ul>
+  </li>
+  <li><strong>Delete API Key</strong>
+    <ul>
+      <li>As this API key wont be used for a continuing integration, it is best practice to delete your API Key in Neat Pulse. Do this by going to *Settings > API Keys* and clicking the pencil at the right of the API key being used and click *Delete API Key* from the pop-up dialog box.</li>
+    </ul>
+  </li>
 </ol>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
