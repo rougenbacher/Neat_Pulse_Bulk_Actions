@@ -154,13 +154,13 @@ You will need the following in order to use this tool:
       <li>Press the *Get Locations* button to get location IDs. Make sure to note these as they'll be needed in the next step.</li>
     </ul>
   </li>
-  <li><strong>Download and Fill Out CSV<strong>
+  <li><strong>Download and Fill Out CSV<\strong>
     <ul>
       <li>Click *Downlad CSV Template* to download a pre-populated CSV.</li>
       <li>Fill out CSV with Room Names and Location ID gathered in the previous step. Leave the *enrollment_code* column empty.</li>
     </ul>
   </li>
-  <li><strong>Create Rooms<strong>
+  <li><strong>Create Rooms<\strong>
     <ul>
       <li>Click *Choose file* to select you populated CSV. Note: Rooms without a location will be assigned to "Unassigned" and must be updated manually.</li>
       <li>Click *Create Rooms*. This will create new rooms in thr appropriate locations. Once completed you will see the status of each room along with its enrollment code.  You can write these down or just click *Download CSV* to get an updated CSV populated with enrollment codes.</li>
