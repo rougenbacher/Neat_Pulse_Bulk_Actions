@@ -30,7 +30,7 @@
   <h3 align="center">Neat Pulse :: Bulk Room Creation Tool</h3>
 
   <p align="center">
-    An awesome tool to bulk create rooms in <a href="https://neat.no/pulse>Neat Pulse</a>. 
+    An awesome tool to bulk create rooms in <a href="https://neat.no/pulse>Neat Pulse</a>
     <br />
     <a href="https://neatpulseroomcreate.replit.app/"><strong>Go to the tool!</strong></a>
     <br />
