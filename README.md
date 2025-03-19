@@ -185,7 +185,7 @@ You will need the following in order to use this tool:
 - [ ] Add standalone Teams Room creation (pending MSFT limitstions)
 - [ ] Add ability to create Pulse Rooms and Teams Rooms with one CSV
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/rougenbacher/Neat-Pulse---Bulk-Room-Create/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
