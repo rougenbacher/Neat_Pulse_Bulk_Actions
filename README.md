@@ -147,7 +147,7 @@ You will need the following in order to use this tool:
       <li>Navigate to the <a href="https://neatpulseroomcreate.replit.app/">Bulk Room Creation Tool</a></li>
       <li>Enter your API Key and press *Set API Key*</li>
       <li>Enter your Organization ID and press *Set Org ID*</li>
-    <\ul>
+    </ul>
   </li>
   <li><strong>Get Location IDs</strong>
     <ul>
