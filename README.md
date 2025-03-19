@@ -86,7 +86,7 @@ Managing large-scale deployments of Neat devices should be seamless and efficien
   <li><b>No API Knowledge Required</b> - Many enterprise customers lack the expertise to use APIs directly, so this tool provides an intuitive interface.</li>
   <li><b>Faster Deployments</b> - Reduces the time and effort needed for setting up large-scale Neat Pulse environments.</li>
   <li><b>Enrollment Codes in CSV Format</b> - Generates enrollment codes in the same CSV format used for room creation, making it easy to distribute and track.</li>
-
+<br>
 Read on to get started! 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
