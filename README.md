@@ -78,15 +78,16 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Managing large-scale deployments of Neat devices should be seamless and efficient. This online tool was developed to simplify the process of bulk room creation in Neat Pulse, allowing enterprise customers to upload a CSV file and generate multiple rooms at once. By leveraging available APIs, the tool streamlines room provisioning, reducing the time and effort required for large deployments—all through a simple, user-friendly interface.
+Managing large-scale deployments of Neat devices should be seamless and efficient. This online tool was developed to simplify the process of bulk room creation in Neat Pulse, allowing Neat customers to upload a CSV file and generate multiple rooms at once. By leveraging available APIs, the tool streamlines room provisioning, reducing the time and effort required for large deployments—all through a simple, user-friendly interface.
 
-Here’s Why
-	•	<b>Simplifies Bulk Room Creation</b> – Eliminates the 20-room manual creation limit by enabling CSV uploads.
-	•	No API Knowledge Required – Many enterprise customers lack the expertise to use APIs directly, so this tool provides an intuitive interface.
-	•	Faster Deployments – Reduces the time and effort needed for setting up large-scale Neat Pulse environments.
-	•	Enrollment Codes in CSV Format – Generates enrollment codes in the same CSV format used for room creation, making it easy to distribute and track.
+<summary>Here’s Why</summary>
+<ul>
+  <li></li><b>Simplifies Bulk Room Creation</b> - Eliminates the 20-room manual creation limit by enabling CSV uploads.
+  <li></li><b>No API Knowledge Required</b> - Many enterprise customers lack the expertise to use APIs directly, so this tool provides an intuitive interface.
+  <li></li><b>Faster Deployments</b> - Reduces the time and effort needed for setting up large-scale Neat Pulse environments.
+  <li></li><b>Enrollment Codes in CSV Format</b> - Generates enrollment codes in the same CSV format used for room creation, making it easy to distribute and track.
 
-Use the `BLANK_README.md` to get started.
+Read on to get started! 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
