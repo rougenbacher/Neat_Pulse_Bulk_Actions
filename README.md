@@ -30,9 +30,9 @@
   <h3 align="center">Neat Pulse :: Bulk Room Creation Tool</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome tool to bulk create rooms in your Neat Pulse tenant. 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://neat.no/pulse/?pulse-sign-up-starter"><strong>Sign up for Neat Pulse!</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
