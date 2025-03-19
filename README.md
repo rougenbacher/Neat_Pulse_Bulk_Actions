@@ -30,7 +30,7 @@
   <h3 align="center">Neat Pulse :: Bulk Room Creation Tool</h3>
 
   <p align="center">
-    An awesome tool to bulk create rooms in your Neat Pulse tenant. 
+    An awesome tool to bulk create rooms in Neat Pulse. 
     <br />
     <a href="https://neat.no/pulse/?pulse-sign-up-starter"><strong>Sign up for Neat Pulse!</strong></a>
     <br />
@@ -78,14 +78,13 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Managing large-scale deployments of Neat devices should be seamless and efficient. This online tool was developed to simplify the process of bulk room creation in Neat Pulse, allowing enterprise customers to upload a CSV file and generate multiple rooms at once. By leveraging available APIs, the tool streamlines room provisioning, reducing the time and effort required for large deployments—all through a simple, user-friendly interface.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Here’s Why
+	•	<b>Simplifies Bulk Room Creation<\b> – Eliminates the 20-room manual creation limit by enabling CSV uploads.
+	•	No API Knowledge Required – Many enterprise customers lack the expertise to use APIs directly, so this tool provides an intuitive interface.
+	•	Faster Deployments – Reduces the time and effort needed for setting up large-scale Neat Pulse environments.
+	•	Enrollment Codes in CSV Format – Generates enrollment codes in the same CSV format used for room creation, making it easy to distribute and track.
 
 Use the `BLANK_README.md` to get started.
 
