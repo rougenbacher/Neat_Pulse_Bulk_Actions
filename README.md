@@ -1,4 +1,4 @@
-# Neat-Pulse---Bulk-Room-Create
+# Neat Pulse - Bulk Room Creation
 
 <!-- Back to top link. -->
 <a id="readme-top"></a>
