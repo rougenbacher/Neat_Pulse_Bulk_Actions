@@ -194,7 +194,7 @@ See the [open issues](https://github.com/rougenbacher/Neat-Pulse---Bulk-Room-Cre
 <!-- CONTACT -->
 ## Contact
 
-Chris Rouge - [LinkedIn](http://linkedin.com/in/chrisrouge) -rougechris@protonmail.com
+Chris Rouge - [LinkedIn](http://linkedin.com/in/chrisrouge) - rougechris@protonmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
