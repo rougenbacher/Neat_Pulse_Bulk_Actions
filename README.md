@@ -92,16 +92,6 @@ Read on to get started!
 
 
 
-### Built With
-
-This project was built on replit using the following. 
-
-* [![Next][Next.js]][Next-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
