@@ -178,7 +178,7 @@ See the [open issues](https://github.com/rougenbacher/Neat-Pulse---Bulk-Room-Cre
 
 Chris Rouge - [LinkedIn](http://linkedin.com/in/chrisrouge) - rougechris@protonmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/rougenbacher/Pulse-Bulk-Create](https://github.com/rougenbacher/Pulse-Bulk-Create)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
