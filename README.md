@@ -1,8 +1,9 @@
 # Neat Pulse - Bulk Room Creation
 
 # Custom CSS
-  .warning {
-          background-color: #f2dede; /* Light red */
+.warning {
+    background-color: #f2dede; /* Light red */
+}
 
 <!-- Back to top link. -->
 <a id="readme-top"></a>
@@ -64,9 +65,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <br>
-<blockquote class=warning>
-While I work at Neat, this tool is not officially supported by Neat. It is an independent project created to assist Neat customers, but Neat does not endorse or provide support for it.
-</blockquote>
+
+> [!IMPORTANT]
+> While I work at Neat, this tool is not officially supported by Neat. It is an independent project created to assist Neat customers, but Neat does not endorse or provide support for it.
 <br>
 <img src="images/pulsetool.png" alt="ProductImage" width="720" height="auto">
 
