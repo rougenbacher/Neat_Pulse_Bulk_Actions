@@ -66,10 +66,11 @@
 <br>
 <img src="images/PulseTool.png" alt="ProductImage" width="720" height="auto">
 
-Managing large-scale deployments of Neat devices should be seamless and efficient. This online tool was developed to simplify the process of bulk room creation in Neat Pulse, allowing Neat customers to upload a CSV file and generate multiple rooms at once. By leveraging available APIs, the tool streamlines room provisioning, reducing the time and effort required for large deployments—all through a simple, user-friendly interface.
+Managing large-scale deployments of Neat devices should be seamless and efficient. This online tool was developed to simplify the process of bulk room creation and updating locations in bulk in Neat Pulse. By leveraging available APIs, this tool streamlines room provisioning and updating rooms, reducing the time and effort required for large deployments—all through a simple, user-friendly interface.
 
 Here’s Why
 * <b>Simplifies Bulk Room Creation</b> - Eliminates the 20-room manual creation limit by enabling CSV uploads.
+* <b>Reduces Manual Location Changes</b> - Eliminates the need to go room by room to update locations for rooms that have been bulk uploaded.
 * <b>No API Knowledge Required</b> - Many enterprise customers lack the expertise to use APIs directly, so this tool provides an intuitive interface.
 * <b>Faster Deployments</b> - Reduces the time and effort needed for setting up large-scale Neat Pulse environments.
 * <b>Enrollment Codes in CSV Format</b> - Generates enrollment codes in the same CSV format used for room creation, making it easy to distribute and track.
