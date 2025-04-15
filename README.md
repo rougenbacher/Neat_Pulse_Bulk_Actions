@@ -104,7 +104,7 @@ You will need the following in order to use this tool:
 <ol>
   <li><strong>Set Up Locations</strong>
     <ul>
-      <li>Create necessary Regions/Locations in Neat Pulse. Rooms without a location will be assigned to "Unassigned" and must be updated manually.</li>
+      <li>Create necessary Regions/Locations in Neat Pulse. Rooms without a location will be assigned to "Unassigned" and must be updated manually or with location update feature of tool.</li>
     </ul>
   </li>
   <li><strong>Get Org ID and API Key</strong>
@@ -133,13 +133,61 @@ You will need the following in order to use this tool:
   </li>
   <li><strong>Create Rooms</strong>
     <ul>
-      <li>Click *Choose file* to select you populated CSV. Note: Rooms without a location will be assigned to "Unassigned" and must be updated manually.</li>
-      <li>Click *Create Rooms*. This will create new rooms in thr appropriate locations. Once completed you will see the status of each room along with its enrollment code.  You can write these down or just click *Download CSV* to get an updated CSV populated with enrollment codes.</li>
+      <li>Click *Choose file* to select your populated CSV. Note: Rooms without a location will be assigned to "Unassigned" and must be updated manually.</li>
+      <li>Click *Create Rooms*. This will create new rooms in the appropriate locations. Once completed you will see the status of each room along with its enrollment code.  You can write these down or just click *Download CSV* to get an updated CSV populated with enrollment codes.</li>
     </ul>
   </li>
   <li><strong>Delete API Key</strong>
     <ul>
-      <li>As this API key wont be used for a continuing integration, it is best practice to delete your API Key in Neat Pulse. Do this by going to *Settings > API Keys* and clicking the pencil at the right of the API key being used and click *Delete API Key* from the pop-up dialog box.</li>
+      <li>As this API key wont be used for a continuing integration, it is best practice to delete your API Key in Neat Pulse. Do this by going to *Settings > API Keys*.  Then click the pencil at the right of the API key being used and click *Delete API Key* from the pop-up dialog box.</li>
+    </ul>
+  </li>
+</ol>
+
+## Bulk Location Update
+<ol>
+  <li><strong>Set Up Locations</strong>
+    <ul>
+      <li>Create necessary Regions/Locations in Neat Pulse. You will need these locations in order to assign them to rooms in your tenant.</li>
+    </ul>
+  </li>
+  <li><strong>Get Org ID and API Key</strong>
+    <ul>
+      <li>In your Pulse tenat, navigate to the *Settings* tab on the left. From there copy the *Organization ID*.</li>
+      <li>While still in *Settings*, click *Create API Key*. Give a descriptive name and ensure you select both *Read* and *Write* for the scope.</li>
+    </ul>
+  </li>
+  <li><strong>Set Organization ID and API Key</strong>
+    <ul>
+      <li>Navigate to the <a href="https://neatpulsebulkactions.replit.app/update-locations">Bulk Location Update Tool</a></li>
+      <li>Enter your API Key and press *Set API Key*</li>
+      <li>Enter your Organization ID and press *Set Org ID*</li>
+    </ul>
+  </li>
+  <li><strong>Get Location IDs</strong>
+    <ul>
+      <li>Press the *Get Locations* button to get location IDs. Make sure to note these as they'll be needed in the next step.</li>
+    </ul>
+  </li>
+  <li><strong>Get Rooms</strong>
+    <ul>
+      <li>Press the *Get Rooms* button to get a list of all rooms in your organization with their current locations.  Click the *Download Updated CSV* button to get a CSV with all rooms and  their current locations</li>
+    </ul>
+  </li>
+  <li><strong>Update CSV</strong>
+    <ul>
+      <li>Update CSV by removing rooms that don't require a location update and update the location ID for rooms that you want to update the location for.  *Note: You only need to update the location ID.  You can leave the Location field as unassigned.*</li>
+    </ul>
+  </li>
+  <li><strong>Update Locations</strong>
+    <ul>
+      <li>Click *Choose file* to select your updated CSV.</li>
+      <li>Click *Update Locations*. This will update the locations of the rooms in the CSV. Once completed you will see the status of each room's location update.</li>
+    </ul>
+  </li>
+  <li><strong>Delete API Key</strong>
+    <ul>
+      <li>As this API key wont be used for a continuing integration, it is best practice to delete your API Key in Neat Pulse. Do this by going to *Settings > API Keys*.  Then click the pencil at the right of the API key being used and click *Delete API Key* from the pop-up dialog box.</li>
     </ul>
   </li>
 </ol>
