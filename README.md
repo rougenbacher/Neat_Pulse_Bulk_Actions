@@ -92,7 +92,7 @@ You will need the following in order to use this tool:
 <ul>
   <li>An active Neat Pulse account.</li>
   <li>Pulse Plus or Pro licenses for all devices to enable API access</li>
-  <li>An API Key with Read abd Write Access</li>
+  <li>An API Key with Read and Write Access</li>
   <li>Your Organization ID</li>
   <li>Region(s) and location(s) created in your Pulse tenant.</li>
   <li>List of room names that you would like to create.</li>
@@ -100,7 +100,7 @@ You will need the following in order to use this tool:
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Bulk Room Creation
 <ol>
   <li><strong>Set Up Locations</strong>
     <ul>
