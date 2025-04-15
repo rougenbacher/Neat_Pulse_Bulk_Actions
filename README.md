@@ -1,9 +1,5 @@
 # Neat Pulse - Bulk Room Creation
 
-# Custom CSS
-.warning {
-    background-color: #f2dede; /* Light red */
-}
 
 <!-- Back to top link. -->
 <a id="readme-top"></a>
@@ -16,10 +12,10 @@
     <img src="images/neat-color.png" alt="Logo" width="402" height="116">
   </a>
 
-  <h3 align="center">Neat Pulse :: Bulk Room Creation Tool</h3>
+  <h3 align="center">Neat Pulse :: Bulk Action Tool</h3>
 
   <p align="center">
-    An awesome tool to bulk create rooms in <a href="https://neat.no/pulse">Neat Pulse</a>
+    An awesome tool to bulk create rooms or update room locations in <a href="https://neat.no/pulse">Neat Pulse</a>
     <br />
     <a href="https://neatpulseroomcreate.replit.app/"><strong>Go to the tool!</strong></a>
     <br />
