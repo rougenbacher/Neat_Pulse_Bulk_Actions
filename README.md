@@ -1,5 +1,4 @@
-# Neat Pulse - Bulk Room Creation
-
+# Neat Pulse - Bulk Action Tool
 
 <!-- Back to top link. -->
 <a id="readme-top"></a>
@@ -17,7 +16,7 @@
   <p align="center">
     An awesome tool to bulk create rooms or update room locations in <a href="https://neat.no/pulse">Neat Pulse</a>
     <br />
-    <a href="https://neatpulseroomcreate.replit.app/"><strong>Go to the tool!</strong></a>
+    <a href="https://neatpulsebulkactions.replit.app/"><strong>Go to the tool!</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
