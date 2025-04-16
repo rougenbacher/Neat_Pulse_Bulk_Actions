@@ -107,8 +107,7 @@ You will need the following in order to use this tool:
   </li>
   <li><strong>Create Rooms</strong>
     <ul>
-      <li>> [!IMPORTANT]
-> For large number of rooms, it will look as though nothing is happening but the app takes some time to make the changes so be patient and dont' close or reload the page. 
+      <li><b>For large number of rooms, it will look as though nothing is happening but the app takes some time to make the changes so be patient and dont' close or reload the page.</b>
 <br></li>
       <li>Click *Choose file* to select your populated CSV. Note: Rooms without a location will be assigned to "Unassigned" and must be updated manually.</li>
       <li>Click *Create Rooms*. This will create new rooms in the appropriate locations. Once completed you will see the status of each room along with its enrollment code.  You can write these down or just click *Download CSV* to get an updated CSV populated with enrollment codes.</li>
