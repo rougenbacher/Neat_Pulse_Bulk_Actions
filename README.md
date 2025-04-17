@@ -35,7 +35,7 @@
 ## About The Project
 <br>
 
-> [!IMPORTANT]
+> [!WARNING]
 > Warning: While I work at Neat, this tool is not officially supported, endorsed, or maintained by Neat. It is an independent project created to assist Neat customers. <b>Use at your own risk.</b> Neat assumes no responsibility for any issues arising from its use. Thoroughly test in a non-production environment before making any critical or large-scale changes.
 <br>
 <img src="images/PulseTool.png" alt="ProductImage" width="720" height="auto">
